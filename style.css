@@ -1,0 +1,67 @@
+/*tag body*/
+body {
+    padding-top: 50px;
+}
+/*class*/
+
+.navbar {
+    background-image: url('imagem/HPcm.gif'); 
+    background-color: #95d7eb;
+}  
+ 
+/*class*/
+
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: #fff;
+}
+/*class*/
+
+.jumbotron {
+    background-image: url('gif.gif');
+    color: #fff;
+    text-align: justify;
+    padding: 100px;
+}
+/*class*/
+
+.section {
+    padding: 50px 0;
+}
+/*class*/
+
+.footer {
+    background-color: #aefaff;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+/*class*/
+
+/*tag h1*/
+h1{
+    color:black;
+}
+/*tag p*/
+p{
+    color:black;
+    text-align: justify;
+}
+/*id*/
+
+#paragrafo{
+
+    text-align: center;
+
+}
+/*id*/
+
+#paragrafo1{
+
+    text-align: center;
+}
+/*tag img*/
+img{
+    
+    width: 300px;
+}
